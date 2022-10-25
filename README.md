@@ -2,6 +2,7 @@
 <h3 align="center">Data Science Undergraduate at SLIIT</h3>
 <br>
 <img align="right" alt="Coding" width="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+
 - 🔭 I’m currently learning **Machine Learning and Data Science**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
