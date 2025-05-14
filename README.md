@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Francis JV</h1>
-<h3 align="center">Data Science Undergraduate at SLIIT</h3>
+<h3 align="center">Data Science Graduate</h3>
 <br>
-<img align="right" alt="Coding" width="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/FrancisJV/FrancisJV/blob/main/GIF.gif?raw=true">
+
 
 - 🔭 I’m currently learning **Machine Learning and Data Science**
 
